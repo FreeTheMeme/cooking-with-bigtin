@@ -6,7 +6,7 @@ tags:
   - first
 author: Bigtin
 comments: false
-description: Desc Text.
+description:
 ---
 ## Ingredients
 ### Meat

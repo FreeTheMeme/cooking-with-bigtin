@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/garlic-black-pepper-chicken.md",
+                "file": "posts/parmesan-ranch-sliders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "garlic-black-pepper-chicken"
+              "title": "parmesan-ranch-sliders"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/garlic-black-pepper-chicken.md",
+                "file": "posts/parmesan-ranch-sliders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for garlic-black-pepper-chicken"
+              "title": "Backlinks for parmesan-ranch-sliders"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/garlic-black-pepper-chicken.md",
+                "file": "posts/parmesan-ranch-sliders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from garlic-black-pepper-chicken"
+              "title": "Outgoing links from parmesan-ranch-sliders"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/garlic-black-pepper-chicken.md",
+                "file": "posts/parmesan-ranch-sliders.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of garlic-black-pepper-chicken"
+              "title": "Outline of parmesan-ranch-sliders"
             }
           }
         ]
@@ -170,8 +170,10 @@
   },
   "active": "f5fb4586e7fc7312",
   "lastOpenFiles": [
-    "posts/beef-bowl.md",
+    "posts/noodle-thing.md",
     "posts/garlic-black-pepper-chicken.md",
+    "posts/beef-bowl.md",
+    "posts/parmesan-ranch-sliders.md",
     "posts/test.md",
     "beef_bowl.md",
     "befuck.md",

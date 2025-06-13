@@ -10,7 +10,7 @@ description:
 ---
 
 this is the dish I always come back to 🍚
-
+![bowl](/images/beef-bowl/beef-bowl.png)
 
 
 **source:** https://therecipecritic.com/korean-ground-beef-rice-bowls/
