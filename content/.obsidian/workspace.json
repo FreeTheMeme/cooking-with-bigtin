@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "a8b131cf2ead2cc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a84299089a58be2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5fb4586e7fc7312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/garlic-black-pepper-chicken.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "garlic-black-pepper-chicken"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d33135a797f348f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b9b7ec9fbbaf965",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "507fff1e14d99062",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a86e0ceceeec4a8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "723c4480e7e50ca3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0a28a76f3696163",
+    "type": "split",
+    "children": [
+      {
+        "id": "fddd34140eadacf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f444a870e7b5c0a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/garlic-black-pepper-chicken.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for garlic-black-pepper-chicken"
+            }
+          },
+          {
+            "id": "8623619db8a38d76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/garlic-black-pepper-chicken.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from garlic-black-pepper-chicken"
+            }
+          },
+          {
+            "id": "a720241d02c08dd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4a7fcd44a6e5b19d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/garlic-black-pepper-chicken.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of garlic-black-pepper-chicken"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f5fb4586e7fc7312",
+  "lastOpenFiles": [
+    "posts/beef-bowl.md",
+    "posts/garlic-black-pepper-chicken.md",
+    "posts/test.md",
+    "beef_bowl.md",
+    "befuck.md",
+    "posts"
+  ]
+}

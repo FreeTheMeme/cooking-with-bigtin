@@ -1,0 +1,26 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Cooking with Bigtin
+theme: ["PaperMod"]
+
+params:
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+
+  DateFormat: "January 2, 2006"
+
+  homeInfoParams:
+    Title: "Bigtin best food tips 🍳"
+    Content: recipes and more
+    comments: true
+  
+  socialIcons:
+    - name: bluesky
+      url: "https://bsky.app/profile/bigtin.bsky.social"
+    - name: github
+      url: "https://github.com/FreeTheMeme"
+
+    
+    
