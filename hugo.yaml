@@ -21,6 +21,15 @@ params:
       url: "https://bsky.app/profile/bigtin.bsky.social"
     - name: github
       url: "https://github.com/FreeTheMeme"
-
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: blog
+      name: example.org
+      url: https://blog.tinlab.net
+      weight: 30
     
     
