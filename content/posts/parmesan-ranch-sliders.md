@@ -18,3 +18,5 @@ author: Bigtin
 1. Add salt to Ground beef.
 2. Mix seasoning, mayonnaise, sour cream and Parmesan together into a bowl.
 3. Place buns cut side down onto a baking sheet. Put olive oil on And then add Parmesan cheese on top of the buns. Use the broiler setting on the oven. Keep an eye on them. They will brown quickly.
+## Additional considerations
+- I don't usually cook the buns because I'm lazy. If you do, it tastes way better.

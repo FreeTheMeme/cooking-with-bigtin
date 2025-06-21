@@ -1,6 +1,6 @@
 ---
 date: '2025-06-21T18:59:23-04:00'
-draft: false
+draft: /s/false
 title: 'Update 1 Bread Book'
 tags: ["bread","book"]
 author: "Bigtin"
