@@ -6,6 +6,7 @@ tags: ["ice cream","Experiment"]
 author: "Bigtin"
 ---
 ## Ingredients 
+![](/images/ice-cream/ingrents.jpg)
 - 1 cup (0.24 l) of Whole milk 
 - 1 cup (0.24 l) of Whipping cream
 - 1/2 cup (0.12 l) of Sugar
