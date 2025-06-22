@@ -20,7 +20,7 @@ params:
     - name: bluesky
       url: "https://bsky.app/profile/bigtin.bsky.social"
     - name: github
-      url: "https://github.com/FreeTheMeme"
+      url: "https://github.com/FreeTheMeme/cooking-with-bigtin"
 menu:
   main:
     - identifier: tags
