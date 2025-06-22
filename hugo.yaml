@@ -26,10 +26,10 @@ menu:
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 20
+      weight: 10
     - identifier: blog
-      name: example.org
+      name: blog
       url: https://blog.tinlab.net
-      weight: 30
+      weight: 20
     
     
